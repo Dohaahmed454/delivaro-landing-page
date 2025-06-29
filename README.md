@@ -15,8 +15,7 @@ Designed to attract users and promote a fast, reliable, and easy-to-use mobile a
 
 ## 🔗 Live Demo
 
-👉 [Click here to view the site](https://dohaahmed454.github.io/delivaro-landing-page/)
-
+👉 [Click here to view the site][((https://6861a770e802b8f0967ac14b--stately-peony-ad1d28.netlify.app/))]
 ---
 
 ## 📸 Preview
